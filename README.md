@@ -12,4 +12,5 @@
 ## Beurten
 1. A
 2. S fout
-3. 
+3. G
+4. 
