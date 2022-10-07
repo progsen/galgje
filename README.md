@@ -7,7 +7,7 @@
 |1|2|3|4|5|
 
 ## Score
-![gallow](./images/5.png)
+![gallow](./images/6.png)
 
 ## Beurten
 1. A
@@ -17,4 +17,4 @@
 5. N goed
 6. T fout
 7. P fout
-8. Z
+8. Z fout
