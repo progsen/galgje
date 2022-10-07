@@ -17,3 +17,4 @@
 5. N goed
 6. T fout
 7. P fout
+8. Z
