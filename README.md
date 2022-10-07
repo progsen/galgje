@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|G|A|.|.|N|
+|G|A|M|.|N|
 |-|-|-|-|-|
 |1|2|3|4|5|
 
@@ -18,4 +18,4 @@
 6. T fout
 7. P fout
 8. Z fout
-9. M
+9. M goed
