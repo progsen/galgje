@@ -19,3 +19,4 @@
 7. P fout
 8. Z fout
 9. M goed
+10. E
