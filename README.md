@@ -15,4 +15,4 @@
 3. G fout
 4. L
 5. N goed
-6. 
+6. T
