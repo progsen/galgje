@@ -10,5 +10,5 @@
 ![gallow](./images/1.png)
 
 ## Beurten
-1. 
+1. A
 2. 
