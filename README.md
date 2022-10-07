@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|G|A|M|.|N|
+|G|A|M|E|N|
 |-|-|-|-|-|
 |1|2|3|4|5|
 
@@ -20,3 +20,4 @@
 8. Z fout
 9. M goed
 10. E
+WINNER!
